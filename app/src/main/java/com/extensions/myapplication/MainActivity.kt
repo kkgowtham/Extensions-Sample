@@ -2,7 +2,7 @@ package com.extensions.myapplication
 
 import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
-import com.pulse.sdk.*
+import io.github.kkgowtham.extensions.showToast
 
 class MainActivity : AppCompatActivity() {
     override fun onCreate(savedInstanceState: Bundle?) {

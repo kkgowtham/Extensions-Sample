@@ -1,4 +1,4 @@
-package com.pulse.sdk
+package io.github.kkgowtham.extensions
 
 import android.content.Context
 import android.content.Intent

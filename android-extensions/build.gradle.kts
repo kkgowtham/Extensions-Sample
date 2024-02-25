@@ -4,7 +4,7 @@ plugins {
 }
 
 android {
-    namespace = "com.pulse.android-extensions"
+    namespace = "io.github.kkgowtham.android-extensions"
     compileSdk = 33
 
     defaultConfig {
